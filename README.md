@@ -1,2 +1,4 @@
 # hello-world
-my trial repository
+
+Hello All,
+This is will. I'm about to start learning composer, very excited!!
